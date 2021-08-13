@@ -1,0 +1,25 @@
+1-Extract image features from the image collection
+
+2-Populate the descriptors' space with the descriptors of the extracted features
+
+3-Perform k-means clustering
+
+4-Extract features from the Model images (Model images, as seen in the Lecture segment)
+
+5-Identify the visual word corresponding to an extracted feature
+
+6-Link the visual word to the Model image it appears in
+
+7-The Vocabulary Tree is ready
+
+8-Extract fetures from the test image
+
+9-Identify the visual word corresponding to an extracted feature
+
+10-Look-up the visual word in the inverted-file database
+
+11-Increment the element of the voting array corresponding to the obtained visual word
+
+12-Select the most voted image as the best candidate match of the test image
+
+
